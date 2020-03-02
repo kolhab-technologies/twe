@@ -1,0 +1,8 @@
+footer{
+	display: inline;
+	border-top: 1px solid #434343;
+	float: left;
+	padding: 40px 0;
+	width: 100%;
+	text-align: center;
+}
